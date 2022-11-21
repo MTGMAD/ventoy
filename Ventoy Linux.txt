@@ -1,0 +1,21 @@
+Ventoy Linux
+
+Run Application:
+- Go into the directory you extracted to
+- ./Ventoyweb.sh
+- http://127.0.0.1:24680
+
+
+Plugson
+- Go into the directory you extracted to
+- sudo bash VentoyPlugson.sh /dev/sdb  -- last drive part may very based on distro
+- http://127.0.0.1:24681
+
+Test
+sudo qemu-system-x86_64 /dev/sdb
+
+
+
+
+
+
